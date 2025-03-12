@@ -1,4 +1,4 @@
 # Git-Collaboration-Exercises
  Working with friends with Friends
 
-This is a Collaborative Git exercise. 
+This is an Resolved Advanced Git exercise.
