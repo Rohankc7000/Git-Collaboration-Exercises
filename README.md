@@ -1,4 +1,3 @@
 # Git-Collaboration-Exercises
  Working with friends with Friends
-
-This is an Resolved Advanced Git exercise.
+These changes are from Sunil Thapa. This is about to show in Rohan's repository [main repositoy].
